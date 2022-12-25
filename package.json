@@ -1,0 +1,24 @@
+{
+  "name": "rest_api_1",
+  "version": "1.0.0",
+  "description": "REST API TEST EXAMPLE",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js",
+    "dev": "nodemon app.js"
+  },
+  "keywords": [
+    "REST",
+    "API",
+    "JS"
+  ],
+  "author": "DIANCHESS",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2",
+    "uuid": "^9.0.0"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.16"
+  }
+}
